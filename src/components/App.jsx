@@ -1,9 +1,10 @@
 import React from 'react';
+import FormEmployee from './FormEmployee';
 
 const App = () => {
     return (
         <div>
-            Hello World
+            <FormEmployee />
         </div>
     );
 };
